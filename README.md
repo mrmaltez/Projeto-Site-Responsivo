@@ -5,15 +5,15 @@
 
 <h2 style = "text-align: center">Desktop</h2>
 <br>
-<img src = "../mockups/desktop.png" />
+<img style = "display: block; margin-left: auto; margin-right: auto;" src = "./mockups/desktop.png" />
 <br>
 <br>
 <h2 style = "text-align: center">Tablet</h2>
 <br>
-<img src = "../mockups/tablet.png" />
+<img style = "display: block; margin-left: auto; margin-right: auto;" src = "./mockups/tablet.png" />
 <br>
 <br>
 <h2 style = "text-align: center">Mobile</h2>
 <br>
-<img src = "../mockups/phone.png" />
+<img style = "display: block; margin-left: auto; margin-right: auto;" src = "./mockups/phone.png" />
 
